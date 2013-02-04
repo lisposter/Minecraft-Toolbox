@@ -1,7 +1,9 @@
 #!/bin/bash
 
-# MCPATH = /home/$(whoami)/.minecraft
-MCPATH=/home/$(whoami)/test
+MCPATH = /home/$(whoami)/.minecraft
+
+# The line below is just for test
+#MCPATH=/home/$(whoami)/test
 
 
 # upgrade lwjgl
