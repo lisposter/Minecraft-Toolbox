@@ -11,7 +11,7 @@ If you have some idea or problem, Tweet or Email me :)
 This script will update your lwjgl. If your Minecraft got a black screen at launch, try this.
 
 ### mcl-gen.sh
-This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient.
+This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient. "ssssssssssssssss...  BOOOOOOOM!   :D"
 
 # MIT LICENSE
 Copyright (C) 2013 Leigh Zhu
