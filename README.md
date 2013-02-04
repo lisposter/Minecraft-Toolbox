@@ -14,7 +14,7 @@ This script will update your lwjgl. If your Minecraft got a black screen at laun
 This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient. "ssssssssssssssss...  BOOOOOOOM!   :D"
 
 # MIT LICENSE
-Copyright (C) 2013 Leigh Zhu
+Copyright (C) 2013 lisposter(Leigh Zhu)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
