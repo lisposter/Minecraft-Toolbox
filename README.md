@@ -7,6 +7,12 @@ I love minecraft.
 I'm cerrently started this repo, I will update it when I have some new idea.
 If you have some idea or problem, Tweet or Email me :)
 
+### upgrade-lwjgl.sh
+This script will update your lwjgl. If your Minecraft got a black screen at launch, try this.
+
+### mcl-gen.sh
+This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient.
+
 # MIT LICENSE
 Copyright (C) 2013 Leigh Zhu
 
