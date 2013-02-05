@@ -17,7 +17,7 @@ This script will generate a bash shell flavor minecraft launcher. It is sooooooo
 # A lot of THANKS to:
  - **Mojang**, for made this epic game.
  - [**Minecraft wiki**](http://www.minecraftwiki.net/wiki/Tutorials/Update_LWJGL), for give me a way to avoid the black screen on my Ubuntu 12.10.
- - [**alloc**](http://www.minecraftforum.net/topic/250945-install-ubuntu-minecraft-installer-update-20/), to [**JamesTheAwesome**](http://www.minecraftforum.net/topic/1520183-how-to-install-minecraft-on-ubuntu-1204-precise/), for inspiring me made this script.
+ - [**alloc**](http://www.minecraftforum.net/topic/250945-install-ubuntu-minecraft-installer-update-20/), [**JamesTheAwesome**](http://www.minecraftforum.net/topic/1520183-how-to-install-minecraft-on-ubuntu-1204-precise/), for inspiring me made this script.
  - **The Minecraft Community**, include the official forum, the Chinese forum and so on, to make me mining and coding so exciting. :D
 
 # MIT LICENSE
