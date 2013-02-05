@@ -4,6 +4,7 @@ Tested on my PC with Ubuntu 12.10(64 bits).
 
 ## About this repo
 I love minecraft.
+
 I'm cerrently started this repo, I will update it when I have some new idea.
 If you have some idea or problem, Tweet or Email me :)
 
@@ -12,6 +13,12 @@ This script will update your lwjgl. If your Minecraft got a black screen at laun
 
 ### mcl-gen.sh
 This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient. "ssssssssssssssss...  BOOOOOOOM!   :D"
+
+# A lot of THANKS to:
+ - **Mojang**, for made this epic game.
+ - [**Minecraft wiki**](http://www.minecraftwiki.net/wiki/Tutorials/Update_LWJGL), for give me a way to avoid the black screen on my Ubuntu 12.10.
+ - alloc, to **JamesTheAwesome**, for inspiring me with [HOW TO *INSTALL* MINECRAFT ON UBUNTU 12.04 (PRECISE)](http://www.minecraftforum.net/topic/1520183-how-to-install-minecraft-on-ubuntu-1204-precise/)
+ - **The Minecraft Community**, include the office forum, the Chinese forum and so on, to make me mining and coding so exciting. :D
 
 # MIT LICENSE
 Copyright (C) 2013 lisposter(Leigh Zhu)
