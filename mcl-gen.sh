@@ -22,7 +22,7 @@ echo ""
 
 MCPATH=$HOME/.minecraft
 if [ ! -e $MCPATH/bin/minecraft.jar ]; then
-	echo -ne "You don't have minecraft.jar" 
+	echo -ne "Seems that your Minecraft isn't installed correctly." 
 fi
 
 echo "Now, you should set size of memory for java."
