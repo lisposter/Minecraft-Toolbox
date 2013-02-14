@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#! this script is for back up minecraft world outside the minecraft game dir, and copy to dropbox.
+# this script is for back up minecraft world outside the minecraft game dir, and copy to dropbox.
+
+# maybe more features will be added soon.
 
 
 # --config sample
