@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#! this script is for back up minecraft world outside the minecraft game dir, and copy to dropbox.
+
+
 # --config sample
 # --use backword slash if your world name has space, ep: Hello/ World
 
