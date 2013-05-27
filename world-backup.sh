@@ -8,10 +8,10 @@
 # --config sample
 # --use backword slash if your world name has space, ep: Hello/ World
 
-# WordName=Sample
-# MCPATH=/home/$(whoami)/.minecraft
-# BKDIR=/home/$(whoami)/MC
-# DROPBOX=1
+WordName=TimeTunnel
+MCPATH=/home/$(whoami)/.minecraft
+BKDIR=/home/$(whoami)/MC
+DROPBOX=1
 
 #-- sample end
 
