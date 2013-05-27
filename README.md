@@ -14,6 +14,37 @@ This script will update your lwjgl. If your Minecraft got a black screen at laun
 ### mcl-gen.sh
 This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient. "ssssssssssssssss...  BOOOOOOOM!   :D"
 
+
+
+## Usage
+### upgrade-lwjgl.sh
+Just change to the minecraft-toolbox directory
+
+	chmod +x upgrade-lwjgl.sh
+
+and, just run it.
+
+	./upgrade-lwjgl.sh
+
+### mcl-gen.sh
+
+	chmod +x mcl-gen.sh
+
+You will be asked some question to config your minecraft lancher.
+
+1. whether to use the official gui lancher? 
+If you config it to "y", you'll get a lancher command [minecraft] in your terminal and a .desktop in your dash, both then are GUI lancher. What's more, there a [minecraftm] commang in your teriminal for the non-gui lancher.
+If you config it to "n", you'll get a lancher command [mincraft] in your teriminal and a .desktop in your dash, both then are NON-GUI.
+
+2. the min java memory and the max java memory.
+
+3. your username.
+
+4. your password.
+
+if 3&4 are not configed. the command non-gui lancher will be directly into the offline game mode.
+
+
 # A lot of THANKS to:
  - [**Mojang**](http://minecraft.net), for made this epic game.
  - [**Minecraft wiki**](http://www.minecraftwiki.net/wiki/Tutorials/Update_LWJGL), for give me a way to avoid the black screen on my Ubuntu 12.10.
