@@ -20,14 +20,14 @@ upgradeLwjgl() {
 	cp lwjgl-2.9.0/jar/lwjgl_util.jar ./bin/
 	cp lwjgl-2.9.0/native/linux/* ./bin/natives
 	rm -rf lwjgl-2.9.0.zip
-	#rm -rf lwjgl-2.9.0
+	rm -rf lwjgl-2.9.0
 
 	echo ""
 	echo "#*************************************************#" 
 	echo "#  lwjgl 2.9.0 is fall in love with minecraft :D  #"
 	echo "#           Enjoy yourself!                       #"
 	echo "#-------------------------------------------------#"
-	echo "#               version 1.0                       #"
+	echo "#               version 1.1                       #"
 	echo "#            twitter: @lisposter                  #"
 	echo "#              email: i@zhuli.me                  #"
 	echo "#             copyright @2013                     #"
