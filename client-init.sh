@@ -44,12 +44,12 @@ sudo ln -s $MCPATH/mcl.sh /usr/bin/minecraft
 cat > $HOME/.local/share/applications/minecraft.desktop<<EOF
 [Desktop Entry]
 Name=Minecraft
-GenericName=Sandbox Game
+GenericName=Sandbox Game by Mojang
 Comment=Play Minecraft
 Exec=minecraft
 Terminal=false
 Type=Application
-Icon=$MCPATH/icon.png
+Icon=$MCPATH/assets/icons/icon_32x32.png
 Categories=Game;
 EOF
 
