@@ -10,8 +10,8 @@
 
 WordName=TimeTunnel
 MCPATH=/home/$(whoami)/.minecraft
-BKDIR=/home/$(whoami)/MC
-DROPBOX=1
+BKDIR=/home/leigh/Files/MC
+DROPBOX=0
 
 #-- sample end
 
@@ -22,5 +22,7 @@ tar czvf ${BKDIR}/${WordName}-${timestamp}-shell.tar.gz ${MCPATH}/saves/${WordNa
 echo $(md5sum ${BKDIR}/${WordName}-${timestamp}-shell.tar.gz)>>${BKDIR}/hash.log
 
 if [ $DROPBOX -eq 1 ]; then
-	cp ${BKDIR}/${WordName}-${timestamp}-shell.tar.gz /home/$(whoami)/Dropbox/MC/ 
+	cp ${BKDIR}/${WordName}-${timestamp}-shell.tar.gz /home/$(whoami)/Dropbox/MC/
+    rm -rf /home/$(whoami)/Dropbox/MC/hash.log
+    cp ${BKDIR}/hash.log /home/$(whoami)/Dropbox/MC/ 
 fi
