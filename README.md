@@ -2,47 +2,9 @@
 Contains some shell scripts for play minecraft with Ubuntu.
 Tested on my PC with Ubuntu 12.10(64 bits).
 
-## About this repo
-I love minecraft.
-
-I'm cerrently started this repo, I will update it when I have some new idea.
-If you have some idea or problem, Tweet or Email me :)
-
-### upgrade-lwjgl.sh
-This script will update your lwjgl. If your Minecraft got a black screen at launch, try this.
-
-### mcl-gen.sh
-This script will generate a bash shell flavor minecraft launcher. It is sooooooo fasssssssssst and convenient. "ssssssssssssssss...  BOOOOOOOM!   :D"
-
-
-
-## Usage
-### upgrade-lwjgl.sh
-Just change to the minecraft-toolbox directory
-
-	chmod +x upgrade-lwjgl.sh
-
-and, just run it.
-
-	./upgrade-lwjgl.sh
-
-### mcl-gen.sh
-
-	chmod +x mcl-gen.sh
-
-You will be asked some question to config your minecraft lancher.
-
-1. whether to use the official gui lancher? 
-If you config it to "y", you'll get a lancher command [minecraft] in your terminal and a .desktop in your dash, both then are GUI lancher. What's more, there a [minecraftm] commang in your teriminal for the non-gui lancher.
-If you config it to "n", you'll get a lancher command [mincraft] in your teriminal and a .desktop in your dash, both then are NON-GUI.
-
-2. the min java memory and the max java memory.
-
-3. your username.
-
-4. your password.
-
-if 3&4 are not configed. the command non-gui lancher will be directly into the offline game mode.
+# About this repo
+!!ATTENTION!!!   ONLY THE [world-backup.sh] IS READY FOR 1.6!!!
+! I AM UPDATING THE REST SCRIPT SOON!
 
 
 # A lot of THANKS to:
