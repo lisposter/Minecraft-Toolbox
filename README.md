@@ -1,17 +1,10 @@
 # Minecraft Toolbox
 Contains some shell scripts for play minecraft with Ubuntu.
-Tested on my PC with Ubuntu 12.10(64 bits).
+Tested on my PC with Ubuntu 13.04(64 bits).
 
-# About this repo
-!!ATTENTION!!!   ONLY THE [world-backup.sh] IS READY FOR 1.6!!!
-! I AM UPDATING THE REST SCRIPT SOON!
+# About
+Everything is update to use for Minecraft 1.6+ with the new official launcher.
 
-
-# A lot of THANKS to:
- - [**Mojang**](http://minecraft.net), for made this epic game.
- - [**Minecraft wiki**](http://www.minecraftwiki.net/wiki/Tutorials/Update_LWJGL), for give me a way to avoid the black screen on my Ubuntu 12.10.
- - [**alloc**](http://www.minecraftforum.net/topic/250945-install-ubuntu-minecraft-installer-update-20/), [**JamesTheAwesome**](http://www.minecraftforum.net/topic/1520183-how-to-install-minecraft-on-ubuntu-1204-precise/), for inspiring me to made this script.
- - **The Minecraft Community**, include the official forum, the Chinese forum and so on, to make me mining and coding so exciting. :D
 
 # MIT LICENSE
 Copyright (C) 2013 lisposter(Leigh Zhu)
